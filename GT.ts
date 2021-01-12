@@ -4,6 +4,6 @@ function strlen(s:string):number{
 
 
 var s = "its a git test";
-console.log(strlen(s));
+console.log(strlen(s+1));
 
 //console.log("hello");
